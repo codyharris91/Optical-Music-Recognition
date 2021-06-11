@@ -1,4 +1,4 @@
-# Assignment 1 Report
+# Optical Music Recognition Report
 
 ## Team Members
 - Cody Harris 
